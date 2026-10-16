@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-16T10:43:33+08:00",
+  "timezone": "Asia/Shanghai",
+  "count_method": "Unicode letters and numbers; Markdown headings, frontmatter, code blocks, comments and image links excluded.",
+  "totals": {
+    "formal": 13615,
+    "working": 18566,
+    "outline": 31841,
+    "settings": 77051
+  },
+  "chapters": [
+    {
+      "label": "第1卷 · 序章",
+      "formal": 666,
+      "working": 0,
+      "variants": 0
+    },
+    {
+      "label": "第1卷 · 第1章",
+      "formal": 10728,
+      "working": 11562,
+      "variants": 1
+    },
+    {
+      "label": "第1卷 · 第2章",
+      "formal": 2221,
+      "working": 7004,
+      "variants": 3
+    }
+  ],
+  "last_manuscript_change": "2026-10-16",
+  "daily": [
+    {
+      "date": "2026-09-25",
+      "totals": {
+        "formal": 0,
+        "working": 24545,
+        "outline": 131603,
+        "settings": 894
+      },
+      "net_change": null,
+      "edited_chapters": 0
+    },
+    {
+      "date": "2026-09-28",
+      "totals": {
+        "formal": 0,
+        "working": 36092,
+        "outline": 131603,
+        "settings": 894
+      },
+      "net_change": {
+        "formal": 0,
+        "working": 11547,
+        "outline": 0,
+        "settings": 0
+      },
+      "edited_chapters": 1
+    },
+    {
+      "date": "2026-10-08",
+      "totals": {
+        "formal": 12373,
+        "working": 13603,
+        "outline": 5232,
+        "settings": 47406
+      },
+      "net_change": {
+        "formal": 12373,
+        "working": -22489,
+        "outline": -126371,
+        "settings": 46512
+      },
+      "edited_chapters": 3
+    },
+    {
+      "date": "2026-10-10",
+      "totals": {
+        "formal": 13615,
+        "working": 13824,
+        "outline": 10407,
+        "settings": 67635
+      },
+      "net_change": {
+        "formal": 1242,
+        "working": 221,
+        "outline": 5175,
+        "settings": 20229
+      },
+      "edited_chapters": 2
+    },
+    {
+      "date": "2026-10-16",
+      "totals": {
+        "formal": 13615,
+        "working": 18566,
+        "outline": 31841,
+        "settings": 77051
+      },
+      "net_change": {
+        "formal": 0,
+        "working": 4742,
+        "outline": 21434,
+        "settings": 9416
+      },
+      "edited_chapters": 1
+    }
+  ]
+}
