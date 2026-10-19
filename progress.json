@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18T21:00:08+08:00",
+  "updated_at": "2026-10-19T14:00:10+08:00",
   "timezone": "Asia/Shanghai",
   "count_method": "Unicode letters and numbers; Markdown headings, frontmatter, code blocks, comments and image links excluded.",
   "totals": {
-    "formal": 16150,
-    "working": 30774,
-    "outline": 33780,
-    "settings": 104415
+    "formal": 19512,
+    "working": 34880,
+    "outline": 36203,
+    "settings": 104828
   },
   "chapters": [
     {
@@ -24,12 +24,18 @@
     },
     {
       "label": "第1卷 · 第2章",
-      "formal": 4756,
-      "working": 19212,
+      "formal": 8118,
+      "working": 22082,
       "variants": 4
+    },
+    {
+      "label": "第1卷 · 第3章",
+      "formal": 0,
+      "working": 1236,
+      "variants": 2
     }
   ],
-  "last_manuscript_change": "2026-10-18",
+  "last_manuscript_change": "2026-10-19",
   "daily": [
     {
       "date": "2026-09-25",
@@ -137,6 +143,22 @@
         "settings": 852
       },
       "edited_chapters": 1
+    },
+    {
+      "date": "2026-10-19",
+      "totals": {
+        "formal": 19512,
+        "working": 34880,
+        "outline": 36203,
+        "settings": 104828
+      },
+      "net_change": {
+        "formal": 3362,
+        "working": 4106,
+        "outline": 2423,
+        "settings": 413
+      },
+      "edited_chapters": 2
     }
   ]
 }
