@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-20T22:26:34+08:00",
+  "updated_at": "2026-10-20T22:31:05+08:00",
   "timezone": "Asia/Shanghai",
   "count_method": "Unicode letters and numbers; Markdown headings, frontmatter, code blocks, comments and image links excluded.",
   "totals": {
@@ -176,5 +176,29 @@
       },
       "edited_chapters": 2
     }
-  ]
+  ],
+  "averages": {
+    "recent_seven_days": {
+      "start": "2026-10-14",
+      "end": "2026-10-20",
+      "days": 7,
+      "per_day": {
+        "formal": 842.1428571428571,
+        "working": 4514.571428571428,
+        "outline": 4104.0,
+        "settings": 5371.285714285715
+      }
+    },
+    "before_recent_seven_days": {
+      "baseline_date": "2026-09-25",
+      "end": "2026-10-13",
+      "days": 18,
+      "per_day": {
+        "formal": 756.3888888888889,
+        "working": -595.6111111111111,
+        "outline": -6733.111111111111,
+        "settings": 3707.8333333333335
+      }
+    }
+  }
 }
