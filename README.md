@@ -2,7 +2,7 @@
 
 写嗨了可能会失联，但故事还在慢慢长大。这里是自动更新的写作进度。
 
-**最近统计：2026-10-20 22:31（北京时间）**  ·  通常每天 14:00 / 21:00 更新
+**最近统计：2026-10-20 22:41（北京时间）**  ·  通常每天 14:00 / 21:00 更新
 
 > 统计更新时间表示程序完成同步，不代表作者当时在线。
 
@@ -18,7 +18,7 @@
 
 ## 正式稿阅读
 
-[下载当前正式稿 TXT](https://github.com/JizhiShiroppu/novel-progress/releases/latest)
+[下载当前正式稿 TXT](https://github.com/JizhiShiroppu/novel-progress/releases/tag/latest-formal)
 
 作品仍在连载。每卷合并为一个 TXT，文件名标明卷号与已收录章节范围；第0章为序章。
 
