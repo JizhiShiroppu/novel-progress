@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-22T14:00:16+08:00",
+  "updated_at": "2026-10-22T21:00:09+08:00",
   "timezone": "Asia/Shanghai",
   "count_method": "Unicode letters and numbers; Markdown headings, frontmatter, code blocks, comments and image links excluded.",
   "totals": {
     "formal": 19510,
-    "working": 47637,
-    "outline": 43792,
-    "settings": 105413
+    "working": 47081,
+    "outline": 44825,
+    "settings": 105523
   },
   "chapters": [
     {
@@ -31,7 +31,7 @@
     {
       "label": "第1卷 · 第3章",
       "formal": 0,
-      "working": 13993,
+      "working": 13437,
       "variants": 2
     }
   ],
@@ -196,15 +196,15 @@
       "date": "2026-10-22",
       "totals": {
         "formal": 19510,
-        "working": 47637,
-        "outline": 43792,
-        "settings": 105413
+        "working": 47081,
+        "outline": 44825,
+        "settings": 105523
       },
       "net_change": {
         "formal": 0,
-        "working": 432,
-        "outline": 0,
-        "settings": 0
+        "working": -124,
+        "outline": 1033,
+        "settings": 110
       },
       "edited_chapters": 1
     }
@@ -216,9 +216,9 @@
       "days": 7,
       "per_day": {
         "formal": 842.1428571428571,
-        "working": 4830.428571428572,
-        "outline": 4769.285714285715,
-        "settings": 5396.857142857143
+        "working": 4751.0,
+        "outline": 4916.857142857143,
+        "settings": 5412.571428571428
       }
     },
     "before_recent_seven_days": {
