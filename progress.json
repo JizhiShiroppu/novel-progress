@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-22T21:00:09+08:00",
+  "updated_at": "2026-10-23T14:00:13+08:00",
   "timezone": "Asia/Shanghai",
   "count_method": "Unicode letters and numbers; Markdown headings, frontmatter, code blocks, comments and image links excluded.",
   "totals": {
     "formal": 19510,
-    "working": 47081,
+    "working": 47460,
     "outline": 44825,
     "settings": 105523
   },
@@ -31,11 +31,11 @@
     {
       "label": "第1卷 · 第3章",
       "formal": 0,
-      "working": 13437,
+      "working": 13816,
       "variants": 2
     }
   ],
-  "last_manuscript_change": "2026-10-22",
+  "last_manuscript_change": "2026-10-23",
   "daily": [
     {
       "date": "2026-09-25",
@@ -207,29 +207,45 @@
         "settings": 110
       },
       "edited_chapters": 1
+    },
+    {
+      "date": "2026-10-23",
+      "totals": {
+        "formal": 19510,
+        "working": 47460,
+        "outline": 44825,
+        "settings": 105523
+      },
+      "net_change": {
+        "formal": 0,
+        "working": 379,
+        "outline": 0,
+        "settings": 0
+      },
+      "edited_chapters": 1
     }
   ],
   "averages": {
     "recent_seven_days": {
-      "start": "2026-10-16",
-      "end": "2026-10-22",
+      "start": "2026-10-17",
+      "end": "2026-10-23",
       "days": 7,
       "per_day": {
-        "formal": 842.1428571428571,
-        "working": 4751.0,
-        "outline": 4916.857142857143,
-        "settings": 5412.571428571428
+        "formal": 480.0,
+        "working": 3092.0,
+        "outline": 1595.4285714285713,
+        "settings": 3759.4285714285716
       }
     },
     "before_recent_seven_days": {
       "baseline_date": "2026-09-25",
-      "end": "2026-10-15",
-      "days": 20,
+      "end": "2026-10-16",
+      "days": 21,
       "per_day": {
-        "formal": 680.75,
-        "working": -536.05,
-        "outline": -6059.8,
-        "settings": 3337.05
+        "formal": 769.047619047619,
+        "working": 60.523809523809526,
+        "outline": -4664.0952380952385,
+        "settings": 3729.190476190476
       }
     }
   }
