@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-23T14:00:13+08:00",
+  "updated_at": "2026-10-25T02:26:57+08:00",
   "timezone": "Asia/Shanghai",
   "count_method": "Unicode letters and numbers; Markdown headings, frontmatter, code blocks, comments and image links excluded.",
   "totals": {
     "formal": 19510,
-    "working": 47460,
-    "outline": 44825,
-    "settings": 105523
+    "working": 52496,
+    "outline": 45290,
+    "settings": 564324
   },
   "chapters": [
     {
@@ -31,11 +31,11 @@
     {
       "label": "第1卷 · 第3章",
       "formal": 0,
-      "working": 13816,
+      "working": 18852,
       "variants": 2
     }
   ],
-  "last_manuscript_change": "2026-10-23",
+  "last_manuscript_change": "2026-10-25",
   "daily": [
     {
       "date": "2026-09-25",
@@ -214,38 +214,54 @@
         "formal": 19510,
         "working": 47460,
         "outline": 44825,
-        "settings": 105523
+        "settings": 111821
       },
       "net_change": {
         "formal": 0,
         "working": 379,
         "outline": 0,
-        "settings": 0
+        "settings": 6298
+      },
+      "edited_chapters": 1
+    },
+    {
+      "date": "2026-10-25",
+      "totals": {
+        "formal": 19510,
+        "working": 52496,
+        "outline": 45290,
+        "settings": 564324
+      },
+      "net_change": {
+        "formal": 0,
+        "working": 5036,
+        "outline": 465,
+        "settings": 452503
       },
       "edited_chapters": 1
     }
   ],
   "averages": {
     "recent_seven_days": {
-      "start": "2026-10-17",
-      "end": "2026-10-23",
+      "start": "2026-10-19",
+      "end": "2026-10-25",
       "days": 7,
       "per_day": {
         "formal": 480.0,
-        "working": 3092.0,
-        "outline": 1595.4285714285713,
-        "settings": 3759.4285714285716
+        "working": 3103.1428571428573,
+        "outline": 1644.2857142857142,
+        "settings": 65701.28571428571
       }
     },
     "before_recent_seven_days": {
       "baseline_date": "2026-09-25",
-      "end": "2026-10-16",
-      "days": 21,
+      "end": "2026-10-18",
+      "days": 23,
       "per_day": {
-        "formal": 769.047619047619,
-        "working": 60.523809523809526,
-        "outline": -4664.0952380952385,
-        "settings": 3729.190476190476
+        "formal": 702.1739130434783,
+        "working": 270.82608695652175,
+        "outline": -4253.173913043478,
+        "settings": 4500.913043478261
       }
     }
   }
