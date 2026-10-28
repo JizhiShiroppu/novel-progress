@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-27T21:00:25+08:00",
+  "updated_at": "2026-10-28T14:01:10+08:00",
   "timezone": "Asia/Shanghai",
   "count_method": "Unicode letters and numbers; Markdown headings, frontmatter, code blocks, comments and image links excluded.",
   "totals": {
     "formal": 19510,
-    "working": 60397,
+    "working": 60434,
     "outline": 376664,
-    "settings": 687304
+    "settings": 688025
   },
   "chapters": [
     {
@@ -31,11 +31,11 @@
     {
       "label": "第1卷 · 第3章",
       "formal": 0,
-      "working": 26753,
+      "working": 26790,
       "variants": 3
     }
   ],
-  "last_manuscript_change": "2026-10-27",
+  "last_manuscript_change": "2026-10-28",
   "daily": [
     {
       "date": "2026-09-25",
@@ -271,29 +271,45 @@
         "settings": 6232
       },
       "edited_chapters": 1
+    },
+    {
+      "date": "2026-10-28",
+      "totals": {
+        "formal": 19510,
+        "working": 60434,
+        "outline": 376664,
+        "settings": 688025
+      },
+      "net_change": {
+        "formal": 0,
+        "working": 37,
+        "outline": 0,
+        "settings": 721
+      },
+      "edited_chapters": 1
     }
   ],
   "averages": {
     "recent_seven_days": {
-      "start": "2026-10-21",
-      "end": "2026-10-27",
+      "start": "2026-10-22",
+      "end": "2026-10-28",
       "days": 7,
       "per_day": {
         "formal": 0.0,
-        "working": 2138.714285714286,
-        "outline": 48218.42857142857,
-        "settings": 83152.85714285714
+        "working": 1889.857142857143,
+        "outline": 47553.142857142855,
+        "settings": 83230.28571428571
       }
     },
     "before_recent_seven_days": {
       "baseline_date": "2026-09-25",
-      "end": "2026-10-20",
-      "days": 25,
+      "end": "2026-10-21",
+      "days": 26,
       "per_day": {
-        "formal": 780.4,
-        "working": 835.24,
-        "outline": -3698.72,
-        "settings": 4173.6
+        "formal": 750.3846153846154,
+        "working": 871.5384615384615,
+        "outline": -3377.346153846154,
+        "settings": 4019.9615384615386
       }
     }
   }
