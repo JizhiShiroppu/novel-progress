@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-05T14:01:10+08:00",
+  "updated_at": "2026-11-05T21:02:04+08:00",
   "timezone": "Asia/Shanghai",
   "count_method": "Unicode letters and numbers; Markdown headings, frontmatter, code blocks, comments and image links excluded.",
   "totals": {
     "formal": 41387,
-    "working": 111436,
+    "working": 121145,
     "outline": 407919,
     "settings": 730811
   },
@@ -49,7 +49,7 @@
     {
       "label": "第1卷 · 第6章",
       "formal": 0,
-      "working": 8319,
+      "working": 18028,
       "variants": 2
     }
   ],
@@ -422,13 +422,13 @@
       "date": "2026-11-05",
       "totals": {
         "formal": 41387,
-        "working": 111436,
+        "working": 121145,
         "outline": 407919,
         "settings": 730811
       },
       "net_change": {
         "formal": 0,
-        "working": 22,
+        "working": 9731,
         "outline": 0,
         "settings": 54
       },
@@ -442,7 +442,7 @@
       "days": 7,
       "per_day": {
         "formal": 3125.285714285714,
-        "working": 6113.142857142857,
+        "working": 7500.142857142857,
         "outline": 4413.0,
         "settings": 1052.5714285714287
       }
