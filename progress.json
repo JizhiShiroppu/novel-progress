@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-05T21:02:04+08:00",
+  "updated_at": "2026-11-06T21:01:52+08:00",
   "timezone": "Asia/Shanghai",
   "count_method": "Unicode letters and numbers; Markdown headings, frontmatter, code blocks, comments and image links excluded.",
   "totals": {
     "formal": 41387,
-    "working": 121145,
-    "outline": 407919,
-    "settings": 730811
+    "working": 106295,
+    "outline": 407175,
+    "settings": 731261
   },
   "chapters": [
     {
@@ -49,11 +49,11 @@
     {
       "label": "第1卷 · 第6章",
       "formal": 0,
-      "working": 18028,
+      "working": 3178,
       "variants": 2
     }
   ],
-  "last_manuscript_change": "2026-11-05",
+  "last_manuscript_change": "2026-11-06",
   "daily": [
     {
       "date": "2026-09-25",
@@ -433,29 +433,45 @@
         "settings": 54
       },
       "edited_chapters": 1
+    },
+    {
+      "date": "2026-11-06",
+      "totals": {
+        "formal": 41387,
+        "working": 106295,
+        "outline": 407175,
+        "settings": 731261
+      },
+      "net_change": {
+        "formal": 0,
+        "working": -14850,
+        "outline": -744,
+        "settings": 450
+      },
+      "edited_chapters": 1
     }
   ],
   "averages": {
     "recent_seven_days": {
-      "start": "2026-10-30",
-      "end": "2026-11-05",
+      "start": "2026-10-31",
+      "end": "2026-11-06",
       "days": 7,
       "per_day": {
-        "formal": 3125.285714285714,
-        "working": 7500.142857142857,
-        "outline": 4413.0,
-        "settings": 1052.5714285714287
+        "formal": 1869.5714285714287,
+        "working": 3677.1428571428573,
+        "outline": 3744.714285714286,
+        "settings": 915.4285714285714
       }
     },
     "before_recent_seven_days": {
       "baseline_date": "2026-09-25",
-      "end": "2026-10-29",
-      "days": 34,
+      "end": "2026-10-30",
+      "days": 35,
       "per_day": {
-        "formal": 573.8235294117648,
-        "working": 1297.0294117647059,
-        "outline": 7218.382352941177,
-        "settings": 21251.441176470587
+        "formal": 808.5714285714286,
+        "working": 1600.2857142857142,
+        "outline": 7124.542857142857,
+        "settings": 20684.542857142857
       }
     }
   }
