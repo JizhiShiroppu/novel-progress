@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-11T14:01:12+08:00",
+  "updated_at": "2026-11-11T21:00:17+08:00",
   "timezone": "Asia/Shanghai",
   "count_method": "Unicode letters and numbers; Markdown headings, frontmatter, code blocks, comments and image links excluded.",
   "totals": {
     "formal": 45941,
     "working": 139520,
-    "outline": 430505,
+    "outline": 436361,
     "settings": 750650
   },
   "chapters": [
@@ -531,13 +531,13 @@
       "totals": {
         "formal": 45941,
         "working": 139520,
-        "outline": 430505,
+        "outline": 436361,
         "settings": 750650
       },
       "net_change": {
         "formal": 0,
         "working": 3073,
-        "outline": 18269,
+        "outline": 24125,
         "settings": 125
       },
       "edited_chapters": 1
@@ -551,7 +551,7 @@
       "per_day": {
         "formal": 650.5714285714286,
         "working": 4015.1428571428573,
-        "outline": 3226.5714285714284,
+        "outline": 4063.1428571428573,
         "settings": 2841.8571428571427
       }
     },
