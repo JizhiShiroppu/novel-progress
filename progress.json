@@ -1,13 +1,19 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-15T12:58:07+08:00",
+  "updated_at": "2026-11-15T13:17:29+08:00",
   "timezone": "Asia/Shanghai",
   "count_method": "Unicode letters and numbers; Markdown headings, frontmatter, code blocks, comments and image links excluded.",
   "totals": {
     "formal": 45941,
     "working": 177277,
-    "outline": 444768,
+    "outline": 113583,
     "settings": 751953
+  },
+  "doc_counts": {
+    "formal": 7,
+    "working": 26,
+    "outline": 16,
+    "settings": 76
   },
   "chapters": [
     {
@@ -78,6 +84,97 @@
     }
   ],
   "last_manuscript_change": "2026-11-15",
+  "rhythm": {
+    "tracking_span_days": 52,
+    "snapshot_days": 34,
+    "manuscript_active_days": 33,
+    "current_streak_days": 22,
+    "longest_streak_days": 22,
+    "formal_chapters": 7,
+    "working_only_chapters": 4,
+    "latest_formal_label": "第1卷 · 第6章",
+    "latest_working_label": "第1卷 · 第10章",
+    "regular_formal_avg_chars": 7546,
+    "draft_to_formal_ratio": 3.86,
+    "settled_draft_ratio": 2.47
+  },
+  "structure": {
+    "world_settings": [
+      {
+        "label": "生物与种族",
+        "files": 7,
+        "chars": 219455
+      },
+      {
+        "label": "能力与魔法体系",
+        "files": 16,
+        "chars": 167533
+      },
+      {
+        "label": "资源与装备",
+        "files": 6,
+        "chars": 118886
+      },
+      {
+        "label": "势力与阵营",
+        "files": 1,
+        "chars": 107390
+      },
+      {
+        "label": "地区与城市",
+        "files": 4,
+        "chars": 73290
+      },
+      {
+        "label": "社会、经济与学术",
+        "files": 4,
+        "chars": 36444
+      },
+      {
+        "label": "基础概念",
+        "files": 4,
+        "chars": 11647
+      }
+    ],
+    "characters": [
+      {
+        "label": "主要人物",
+        "files": 8,
+        "chars": 6491
+      },
+      {
+        "label": "配角",
+        "files": 12,
+        "chars": 6605
+      },
+      {
+        "label": "区域与路人",
+        "files": 14,
+        "chars": 4212
+      }
+    ],
+    "character_total_files": 34,
+    "character_total_chars": 17308,
+    "world_total_files": 42,
+    "world_total_chars": 734645,
+    "outline_modules": [
+      {
+        "label": "总纲与专题推演",
+        "files": 5,
+        "chars": 52540
+      },
+      {
+        "label": "分卷与篇章大纲",
+        "files": 8,
+        "chars": 47232
+      },
+      {
+        "label": "本作时间线",
+        "files": 3,
+        "chars": 13811
+      }
+    ]
+  },
   "daily": [
     {
       "date": "2026-09-25",
@@ -271,13 +368,13 @@
       "totals": {
         "formal": 19510,
         "working": 52606,
-        "outline": 376475,
+        "outline": 45290,
         "settings": 669499
       },
       "net_change": {
         "formal": 0,
         "working": 5146,
-        "outline": 331650,
+        "outline": 465,
         "settings": 557678
       },
       "edited_chapters": 1
@@ -287,7 +384,7 @@
       "totals": {
         "formal": 19510,
         "working": 54861,
-        "outline": 376664,
+        "outline": 45479,
         "settings": 681072
       },
       "net_change": {
@@ -303,7 +400,7 @@
       "totals": {
         "formal": 19510,
         "working": 60397,
-        "outline": 376664,
+        "outline": 45479,
         "settings": 687304
       },
       "net_change": {
@@ -319,7 +416,7 @@
       "totals": {
         "formal": 19510,
         "working": 61074,
-        "outline": 376940,
+        "outline": 45755,
         "settings": 712938
       },
       "net_change": {
@@ -335,7 +432,7 @@
       "totals": {
         "formal": 19510,
         "working": 68644,
-        "outline": 377028,
+        "outline": 45843,
         "settings": 723443
       },
       "net_change": {
@@ -351,7 +448,7 @@
       "totals": {
         "formal": 28300,
         "working": 80555,
-        "outline": 380962,
+        "outline": 49777,
         "settings": 724853
       },
       "net_change": {
@@ -367,7 +464,7 @@
       "totals": {
         "formal": 35633,
         "working": 87196,
-        "outline": 388625,
+        "outline": 57440,
         "settings": 711308
       },
       "net_change": {
@@ -383,7 +480,7 @@
       "totals": {
         "formal": 35633,
         "working": 91310,
-        "outline": 407739,
+        "outline": 76554,
         "settings": 725344
       },
       "net_change": {
@@ -399,7 +496,7 @@
       "totals": {
         "formal": 35633,
         "working": 96634,
-        "outline": 408026,
+        "outline": 76841,
         "settings": 728077
       },
       "net_change": {
@@ -415,7 +512,7 @@
       "totals": {
         "formal": 41387,
         "working": 103233,
-        "outline": 406962,
+        "outline": 75777,
         "settings": 730564
       },
       "net_change": {
@@ -431,7 +528,7 @@
       "totals": {
         "formal": 41387,
         "working": 111414,
-        "outline": 407919,
+        "outline": 76734,
         "settings": 730757
       },
       "net_change": {
@@ -447,7 +544,7 @@
       "totals": {
         "formal": 41387,
         "working": 121145,
-        "outline": 407919,
+        "outline": 76734,
         "settings": 730811
       },
       "net_change": {
@@ -463,7 +560,7 @@
       "totals": {
         "formal": 41387,
         "working": 106295,
-        "outline": 407175,
+        "outline": 75990,
         "settings": 731261
       },
       "net_change": {
@@ -479,7 +576,7 @@
       "totals": {
         "formal": 45941,
         "working": 114365,
-        "outline": 407714,
+        "outline": 76529,
         "settings": 731556
       },
       "net_change": {
@@ -495,7 +592,7 @@
       "totals": {
         "formal": 45941,
         "working": 116323,
-        "outline": 409507,
+        "outline": 78322,
         "settings": 738779
       },
       "net_change": {
@@ -511,7 +608,7 @@
       "totals": {
         "formal": 45941,
         "working": 120944,
-        "outline": 411422,
+        "outline": 80237,
         "settings": 749184
       },
       "net_change": {
@@ -527,7 +624,7 @@
       "totals": {
         "formal": 45941,
         "working": 136447,
-        "outline": 412236,
+        "outline": 81051,
         "settings": 750525
       },
       "net_change": {
@@ -543,7 +640,7 @@
       "totals": {
         "formal": 45941,
         "working": 139520,
-        "outline": 436361,
+        "outline": 105176,
         "settings": 750650
       },
       "net_change": {
@@ -559,7 +656,7 @@
       "totals": {
         "formal": 45941,
         "working": 143482,
-        "outline": 443043,
+        "outline": 111858,
         "settings": 750650
       },
       "net_change": {
@@ -575,7 +672,7 @@
       "totals": {
         "formal": 45941,
         "working": 154542,
-        "outline": 444196,
+        "outline": 113011,
         "settings": 750900
       },
       "net_change": {
@@ -591,7 +688,7 @@
       "totals": {
         "formal": 45941,
         "working": 171768,
-        "outline": 444742,
+        "outline": 113557,
         "settings": 750953
       },
       "net_change": {
@@ -607,7 +704,7 @@
       "totals": {
         "formal": 45941,
         "working": 177277,
-        "outline": 444768,
+        "outline": 113583,
         "settings": 751953
       },
       "net_change": {
@@ -638,7 +735,7 @@
       "per_day": {
         "formal": 1044.1136363636363,
         "working": 2085.8636363636365,
-        "outline": 6316.0,
+        "outline": -1210.9318181818182,
         "settings": 16770.113636363636
       }
     }

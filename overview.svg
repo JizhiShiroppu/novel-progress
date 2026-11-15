@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="296" viewBox="0 0 880 296" role="img" aria-label="小说生长总览"><defs><style>:root {
+  --panel: #ffffff;
+  --bg: #f8fafc;
+  --border: #e2e8f0;
+  --subtle: #f1f5f9;
+  --grid: #e2e8f0;
+  --text: #0f172a;
+  --sub: #475569;
+  --muted: #64748b;
+  --formal: #7c3aed;
+  --working: #0d9488;
+  --outline: #d97706;
+  --settings: #2563eb;
+  --pos: #059669;
+  --neg: #e11d48;
+  --cal-unk: #f8fafc;
+  --cal-unk-stroke: #e2e8f0;
+  --cal-0: #dfe5ee;
+  --cal-1: #99f6e4;
+  --cal-2: #2dd4bf;
+  --cal-3: #0d9488;
+  --cal-4: #115e59;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --panel: #161b22;
+    --bg: #0d1117;
+    --border: #30363d;
+    --subtle: #21262d;
+    --grid: #21262d;
+    --text: #e6edf3;
+    --sub: #9198a1;
+    --muted: #7d8590;
+    --formal: #a78bfa;
+    --working: #2dd4bf;
+    --outline: #fbbf24;
+    --settings: #60a5fa;
+    --pos: #3fb950;
+    --neg: #f85149;
+    --cal-unk: #161b22;
+    --cal-unk-stroke: #262c36;
+    --cal-0: #2b313a;
+    --cal-1: #134e4a;
+    --cal-2: #0f766e;
+    --cal-3: #14b8a6;
+    --cal-4: #5eead4;
+  }
+}
+text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif; }
+.num { font-variant-numeric: tabular-nums; }
+.stop-formal { stop-color: var(--formal); stop-opacity: 0.24; }
+.stop-working { stop-color: var(--working); stop-opacity: 0.22; }
+.stop-outline { stop-color: var(--outline); stop-opacity: 0.24; }
+.stop-settings { stop-color: var(--settings); stop-opacity: 0.24; }
+.stop-end { stop-opacity: 0.01; }</style><linearGradient id="ov-formal" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" class="stop-formal"/><stop offset="100%" class="stop-end"/></linearGradient><linearGradient id="ov-working" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" class="stop-working"/><stop offset="100%" class="stop-end"/></linearGradient><linearGradient id="ov-outline" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" class="stop-outline"/><stop offset="100%" class="stop-end"/></linearGradient><linearGradient id="ov-settings" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" class="stop-settings"/><stop offset="100%" class="stop-end"/></linearGradient></defs><rect x="0.5" y="0.5" width="879" height="295" rx="16" fill="var(--panel)" stroke="var(--border)"/><path d="M36 24 L38.6 31.4 L46 34 L38.6 36.6 L36 44 L33.4 36.6 L26 34 L33.4 31.4 Z" fill="var(--formal)"/><circle cx="45" cy="26" r="2" fill="var(--working)"/><text x="56" y="39" font-size="16.5" font-weight="700" fill="var(--text)">小说生长总览</text><text x="166" y="39" font-size="11.5" fill="var(--muted)">自动同步写作统计看板</text><rect x="572" y="20" width="284" height="26" rx="13" fill="var(--subtle)" stroke="var(--border)"/><text x="714" y="37" text-anchor="middle" font-size="11" fill="var(--sub)" class="num">最近正文变动 2026-11-15 · 统计于 11-15 13:17</text><rect x="24" y="60" width="199" height="136" rx="12" fill="var(--bg)" stroke="var(--border)"/><rect x="38" y="70" width="26" height="3.5" rx="1.75" fill="var(--formal)"/><text x="38" y="90" font-size="12" font-weight="600" fill="var(--sub)">正式稿</text><text x="209" y="90" text-anchor="end" font-size="11" fill="var(--muted)" class="num">7 篇</text><text x="38" y="119" font-size="23" font-weight="700" fill="var(--text)" class="num">45,941<tspan font-size="11.5" font-weight="400" fill="var(--muted)"> 字</tspan></text><text x="38" y="139" font-size="10.5" fill="var(--muted)" class="num">今日 <tspan fill="var(--muted)" font-weight="600">+0</tspan> · 七日 <tspan fill="var(--muted)" font-weight="600">+0</tspan></text><path d="M38.0,183.0 L38.0,179.1 L51.2,163.4 L64.3,163.4 L77.5,163.4 L90.6,163.4 L103.8,151.0 L116.9,151.0 L130.1,151.0 L143.2,151.0 L156.4,151.0 L169.5,151.0 L182.7,151.0 L195.8,151.0 L209.0,151.0 L209.0,183.0 Z" fill="url(#ov-formal)"/><polyline points="38.0,179.1 51.2,163.4 64.3,163.4 77.5,163.4 90.6,163.4 103.8,151.0 116.9,151.0 130.1,151.0 143.2,151.0 156.4,151.0 169.5,151.0 182.7,151.0 195.8,151.0 209.0,151.0" fill="none" stroke="var(--formal)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="209.0" cy="151.0" r="2.6" fill="var(--formal)"/><rect x="235" y="60" width="199" height="136" rx="12" fill="var(--bg)" stroke="var(--border)"/><rect x="249" y="70" width="26" height="3.5" rx="1.75" fill="var(--working)"/><text x="249" y="90" font-size="12" font-weight="600" fill="var(--sub)">工作稿与试写</text><text x="420" y="90" text-anchor="end" font-size="11" fill="var(--muted)" class="num">26 份</text><text x="249" y="119" font-size="23" font-weight="700" fill="var(--text)" class="num">177,277<tspan font-size="11.5" font-weight="400" fill="var(--muted)"> 字</tspan></text><text x="249" y="139" font-size="10.5" fill="var(--muted)" class="num">今日 <tspan fill="var(--pos)" font-weight="600">+5,509</tspan> · 七日 <tspan fill="var(--pos)" font-weight="600">+60,954</tspan></text><path d="M249.0,183.0 L249.0,179.1 L262.2,176.8 L275.3,173.9 L288.5,170.5 L301.6,175.7 L314.8,172.9 L327.9,172.2 L341.1,170.6 L354.2,165.2 L367.4,164.1 L380.5,162.8 L393.7,158.9 L406.8,152.9 L420.0,151.0 L420.0,183.0 Z" fill="url(#ov-working)"/><polyline points="249.0,179.1 262.2,176.8 275.3,173.9 288.5,170.5 301.6,175.7 314.8,172.9 327.9,172.2 341.1,170.6 354.2,165.2 367.4,164.1 380.5,162.8 393.7,158.9 406.8,152.9 420.0,151.0" fill="none" stroke="var(--working)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="420.0" cy="151.0" r="2.6" fill="var(--working)"/><rect x="446" y="60" width="199" height="136" rx="12" fill="var(--bg)" stroke="var(--border)"/><rect x="460" y="70" width="26" height="3.5" rx="1.75" fill="var(--outline)"/><text x="460" y="90" font-size="12" font-weight="600" fill="var(--sub)">大纲与推演</text><text x="631" y="90" text-anchor="end" font-size="11" fill="var(--muted)" class="num">16 份</text><text x="460" y="119" font-size="23" font-weight="700" fill="var(--text)" class="num">113,583<tspan font-size="11.5" font-weight="400" fill="var(--muted)"> 字</tspan></text><text x="460" y="139" font-size="10.5" fill="var(--muted)" class="num">今日 <tspan fill="var(--pos)" font-weight="600">+26</tspan> · 七日 <tspan fill="var(--pos)" font-weight="600">+35,261</tspan></text><path d="M460.0,183.0 L460.0,178.3 L473.2,179.1 L486.3,178.4 L499.5,178.4 L512.6,178.9 L525.8,178.5 L538.9,177.2 L552.1,175.8 L565.2,175.2 L578.4,157.2 L591.5,152.3 L604.7,151.4 L617.8,151.0 L631.0,151.0 L631.0,183.0 Z" fill="url(#ov-outline)"/><polyline points="460.0,178.3 473.2,179.1 486.3,178.4 499.5,178.4 512.6,178.9 525.8,178.5 538.9,177.2 552.1,175.8 565.2,175.2 578.4,157.2 591.5,152.3 604.7,151.4 617.8,151.0 631.0,151.0" fill="none" stroke="var(--outline)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="631.0" cy="151.0" r="2.6" fill="var(--outline)"/><rect x="657" y="60" width="199" height="136" rx="12" fill="var(--bg)" stroke="var(--border)"/><rect x="671" y="70" width="26" height="3.5" rx="1.75" fill="var(--settings)"/><text x="671" y="90" font-size="12" font-weight="600" fill="var(--sub)">设定档案</text><text x="842" y="90" text-anchor="end" font-size="11" fill="var(--muted)" class="num">76 篇</text><text x="671" y="119" font-size="23" font-weight="700" fill="var(--text)" class="num">751,953<tspan font-size="11.5" font-weight="400" fill="var(--muted)"> 字</tspan></text><text x="671" y="139" font-size="10.5" fill="var(--muted)" class="num">今日 <tspan fill="var(--pos)" font-weight="600">+1,000</tspan> · 七日 <tspan fill="var(--pos)" font-weight="600">+13,174</tspan></text><path d="M671.0,183.0 L671.0,179.1 L684.2,176.1 L697.3,175.9 L710.5,175.9 L723.6,175.3 L736.8,175.0 L749.9,166.5 L763.1,154.3 L776.2,152.7 L789.4,152.5 L802.5,152.5 L815.7,152.2 L828.8,152.2 L842.0,151.0 L842.0,183.0 Z" fill="url(#ov-settings)"/><polyline points="671.0,179.1 684.2,176.1 697.3,175.9 710.5,175.9 723.6,175.3 736.8,175.0 749.9,166.5 763.1,154.3 776.2,152.7 789.4,152.5 802.5,152.5 815.7,152.2 828.8,152.2 842.0,151.0" fill="none" stroke="var(--settings)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="842.0" cy="151.0" r="2.6" fill="var(--settings)"/><rect x="24" y="210" width="832" height="68" rx="12" fill="var(--bg)" stroke="var(--border)"/><text x="38.0" y="229" font-size="11" fill="var(--muted)">章节进度</text><text x="38.0" y="249" font-size="13" font-weight="700" fill="var(--text)" class="num">定稿 7 · 在写 4 篇</text><text x="38.0" y="266" font-size="10.5" fill="var(--sub)" class="num">定稿第6章 / 推进第10章</text><line x1="190.4" y1="222" x2="190.4" y2="266" stroke="var(--border)"/><text x="204.4" y="229" font-size="11" fill="var(--muted)">篇幅与打磨比</text><text x="204.4" y="249" font-size="13" font-weight="700" fill="var(--text)" class="num">正章均 7,546 字</text><text x="204.4" y="266" font-size="10.5" fill="var(--sub)" class="num">同章打磨 2.5× · 总储备 3.9×</text><line x1="356.8" y1="222" x2="356.8" y2="266" stroke="var(--border)"/><text x="370.8" y="229" font-size="11" fill="var(--muted)">正文活跃度</text><text x="370.8" y="249" font-size="13" font-weight="700" fill="var(--text)" class="num">33 / 52 天有动笔</text><text x="370.8" y="266" font-size="10.5" fill="var(--sub)" class="num">连更 22 天 · 最长 22 天</text><line x1="523.2" y1="222" x2="523.2" y2="266" stroke="var(--border)"/><text x="537.2" y="229" font-size="11" fill="var(--muted)">近七天日均</text><text x="537.2" y="249" font-size="13" font-weight="700" fill="var(--text)" class="num">工作稿 +8,708 字/天</text><text x="537.2" y="266" font-size="10.5" fill="var(--sub)" class="num">大纲 +5,037 · 设定 +1,882</text><line x1="689.6" y1="222" x2="689.6" y2="266" stroke="var(--border)"/><text x="703.6" y="229" font-size="11" fill="var(--muted)">世界观建档</text><text x="703.6" y="249" font-size="13" font-weight="700" fill="var(--text)" class="num">34 角色 · 42 篇世界</text><text x="703.6" y="266" font-size="10.5" fill="var(--sub)" class="num">累计 34 个记录快照日</text></svg>
