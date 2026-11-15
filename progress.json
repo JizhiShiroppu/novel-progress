@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-15T13:42:06+08:00",
+  "updated_at": "2026-11-15T14:00:31+08:00",
   "timezone": "Asia/Shanghai",
   "count_method": "Unicode letters and numbers; Markdown headings, frontmatter, code blocks, comments and image links excluded.",
   "totals": {
     "formal": 45941,
     "working": 52537,
     "outline": 113583,
-    "settings": 751953,
+    "settings": 751981,
     "agent_working": 124931
   },
   "doc_counts": {
@@ -134,7 +134,7 @@
       {
         "label": "能力与魔法体系",
         "files": 16,
-        "chars": 167533
+        "chars": 167561
       },
       {
         "label": "资源与装备",
@@ -182,7 +182,7 @@
     "character_total_files": 34,
     "character_total_chars": 17308,
     "world_total_files": 42,
-    "world_total_chars": 734645,
+    "world_total_chars": 734673,
     "outline_modules": [
       {
         "label": "总纲与专题推演",
@@ -796,14 +796,14 @@
         "formal": 45941,
         "working": 52537,
         "outline": 113583,
-        "settings": 751953,
+        "settings": 751981,
         "agent_working": 124931
       },
       "net_change": {
         "formal": 0,
         "working": 1090,
         "outline": 26,
-        "settings": 1000,
+        "settings": 1028,
         "agent_working": 4610
       },
       "edited_chapters": 2
@@ -818,7 +818,7 @@
         "formal": 0.0,
         "working": 2388.714285714286,
         "outline": 5037.285714285715,
-        "settings": 1882.0,
+        "settings": 1886.0,
         "agent_working": 6346.285714285715
       }
     },
