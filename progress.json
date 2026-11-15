@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-15T13:17:29+08:00",
+  "updated_at": "2026-11-15T13:18:00+08:00",
   "timezone": "Asia/Shanghai",
   "count_method": "Unicode letters and numbers; Markdown headings, frontmatter, code blocks, comments and image links excluded.",
   "totals": {
     "formal": 45941,
-    "working": 177277,
+    "working": 177387,
     "outline": 113583,
     "settings": 751953
   },
@@ -79,7 +79,7 @@
     {
       "label": "第1卷 · 第10章",
       "formal": 0,
-      "working": 5484,
+      "working": 5594,
       "variants": 3
     }
   ],
@@ -703,13 +703,13 @@
       "date": "2026-11-15",
       "totals": {
         "formal": 45941,
-        "working": 177277,
+        "working": 177387,
         "outline": 113583,
         "settings": 751953
       },
       "net_change": {
         "formal": 0,
-        "working": 5509,
+        "working": 5619,
         "outline": 26,
         "settings": 1000
       },
@@ -723,7 +723,7 @@
       "days": 7,
       "per_day": {
         "formal": 0.0,
-        "working": 8707.714285714286,
+        "working": 8723.42857142857,
         "outline": 5037.285714285715,
         "settings": 1882.0
       }
