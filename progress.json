@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-11T21:00:17+08:00",
+  "updated_at": "2026-11-15T12:58:07+08:00",
   "timezone": "Asia/Shanghai",
   "count_method": "Unicode letters and numbers; Markdown headings, frontmatter, code blocks, comments and image links excluded.",
   "totals": {
     "formal": 45941,
-    "working": 139520,
-    "outline": 436361,
-    "settings": 750650
+    "working": 177277,
+    "outline": 444768,
+    "settings": 751953
   },
   "chapters": [
     {
@@ -61,11 +61,23 @@
     {
       "label": "第1卷 · 第8章",
       "formal": 0,
-      "working": 11846,
-      "variants": 2
+      "working": 24890,
+      "variants": 3
+    },
+    {
+      "label": "第1卷 · 第9章",
+      "formal": 0,
+      "working": 19229,
+      "variants": 4
+    },
+    {
+      "label": "第1卷 · 第10章",
+      "formal": 0,
+      "working": 5484,
+      "variants": 3
     }
   ],
-  "last_manuscript_change": "2026-11-11",
+  "last_manuscript_change": "2026-11-15",
   "daily": [
     {
       "date": "2026-09-25",
@@ -541,29 +553,93 @@
         "settings": 125
       },
       "edited_chapters": 1
+    },
+    {
+      "date": "2026-11-12",
+      "totals": {
+        "formal": 45941,
+        "working": 143482,
+        "outline": 443043,
+        "settings": 750650
+      },
+      "net_change": {
+        "formal": 0,
+        "working": 3962,
+        "outline": 6682,
+        "settings": 0
+      },
+      "edited_chapters": 1
+    },
+    {
+      "date": "2026-11-13",
+      "totals": {
+        "formal": 45941,
+        "working": 154542,
+        "outline": 444196,
+        "settings": 750900
+      },
+      "net_change": {
+        "formal": 0,
+        "working": 11060,
+        "outline": 1153,
+        "settings": 250
+      },
+      "edited_chapters": 3
+    },
+    {
+      "date": "2026-11-14",
+      "totals": {
+        "formal": 45941,
+        "working": 171768,
+        "outline": 444742,
+        "settings": 750953
+      },
+      "net_change": {
+        "formal": 0,
+        "working": 17226,
+        "outline": 546,
+        "settings": 53
+      },
+      "edited_chapters": 1
+    },
+    {
+      "date": "2026-11-15",
+      "totals": {
+        "formal": 45941,
+        "working": 177277,
+        "outline": 444768,
+        "settings": 751953
+      },
+      "net_change": {
+        "formal": 0,
+        "working": 5509,
+        "outline": 26,
+        "settings": 1000
+      },
+      "edited_chapters": 2
     }
   ],
   "averages": {
     "recent_seven_days": {
-      "start": "2026-11-05",
-      "end": "2026-11-11",
+      "start": "2026-11-09",
+      "end": "2026-11-15",
       "days": 7,
       "per_day": {
-        "formal": 650.5714285714286,
-        "working": 4015.1428571428573,
-        "outline": 4063.1428571428573,
-        "settings": 2841.8571428571427
+        "formal": 0.0,
+        "working": 8707.714285714286,
+        "outline": 5037.285714285715,
+        "settings": 1882.0
       }
     },
     "before_recent_seven_days": {
       "baseline_date": "2026-09-25",
-      "end": "2026-11-04",
-      "days": 40,
+      "end": "2026-11-08",
+      "days": 44,
       "per_day": {
-        "formal": 1034.675,
-        "working": 2171.725,
-        "outline": 6907.9,
-        "settings": 18246.575
+        "formal": 1044.1136363636363,
+        "working": 2085.8636363636365,
+        "outline": 6316.0,
+        "settings": 16770.113636363636
       }
     }
   }
