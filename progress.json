@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-16T21:00:29+08:00",
+  "updated_at": "2026-11-17T14:00:26+08:00",
   "timezone": "Asia/Shanghai",
   "count_method": "Unicode letters and numbers; Markdown headings, frontmatter, code blocks, comments and image links excluded.",
   "totals": {
-    "formal": 45941,
-    "working": 51517,
-    "outline": 115022,
-    "settings": 752258,
-    "agent_working": 146433
+    "formal": 62656,
+    "working": 53533,
+    "outline": 114862,
+    "settings": 752578,
+    "agent_working": 145489
   },
   "doc_counts": {
-    "formal": 7,
+    "formal": 10,
     "working": 10,
     "outline": 16,
     "settings": 76,
@@ -60,40 +60,40 @@
     },
     {
       "label": "第1卷 · 第5章",
-      "formal": 5754,
-      "working": 5053,
+      "formal": 5018,
+      "working": 5018,
       "variants": 1,
       "agent_working": 15174,
       "agent_variants": 2
     },
     {
       "label": "第1卷 · 第6章",
-      "formal": 3741,
-      "working": 3606,
+      "formal": 5492,
+      "working": 5492,
       "variants": 1,
       "agent_working": 7714,
       "agent_variants": 2
     },
     {
       "label": "第1卷 · 第7章",
-      "formal": 0,
-      "working": 7564,
+      "formal": 5590,
+      "working": 5590,
       "variants": 1,
       "agent_working": 15205,
       "agent_variants": 2
     },
     {
       "label": "第1卷 · 第8章",
-      "formal": 0,
-      "working": 5467,
+      "formal": 4783,
+      "working": 4783,
       "variants": 1,
       "agent_working": 18567,
       "agent_variants": 2
     },
     {
       "label": "第1卷 · 第9章",
-      "formal": 0,
-      "working": 3542,
+      "formal": 5327,
+      "working": 7883,
       "variants": 2,
       "agent_working": 15689,
       "agent_variants": 2
@@ -101,28 +101,28 @@
     {
       "label": "第1卷 · 第10章",
       "formal": 0,
-      "working": 2003,
+      "working": 485,
       "variants": 1,
-      "agent_working": 6074,
+      "agent_working": 5130,
       "agent_variants": 2
     }
   ],
-  "last_manuscript_change": "2026-11-16",
+  "last_manuscript_change": "2026-11-17",
   "rhythm": {
-    "tracking_span_days": 53,
-    "snapshot_days": 35,
-    "manuscript_active_days": 33,
-    "current_streak_days": 23,
-    "longest_streak_days": 23,
-    "formal_chapters": 7,
-    "working_only_chapters": 4,
-    "latest_formal_label": "第1卷 · 第6章",
+    "tracking_span_days": 54,
+    "snapshot_days": 36,
+    "manuscript_active_days": 34,
+    "current_streak_days": 24,
+    "longest_streak_days": 24,
+    "formal_chapters": 10,
+    "working_only_chapters": 1,
+    "latest_formal_label": "第1卷 · 第9章",
     "latest_working_label": "第1卷 · 第10章",
-    "regular_formal_avg_chars": 7546,
-    "draft_to_formal_ratio": 1.12,
-    "settled_draft_ratio": 0.95,
-    "unpublished_working_chars": 18576,
-    "author_net_chars": 64517
+    "regular_formal_avg_chars": 6888,
+    "draft_to_formal_ratio": 0.85,
+    "settled_draft_ratio": 1.03,
+    "unpublished_working_chars": 485,
+    "author_net_chars": 63141
   },
   "structure": {
     "world_settings": [
@@ -134,7 +134,7 @@
       {
         "label": "能力与魔法体系",
         "files": 16,
-        "chars": 167561
+        "chars": 167794
       },
       {
         "label": "资源与装备",
@@ -176,13 +176,13 @@
       {
         "label": "区域与路人",
         "files": 14,
-        "chars": 4212
+        "chars": 4299
       }
     ],
     "character_total_files": 34,
-    "character_total_chars": 17585,
+    "character_total_chars": 17672,
     "world_total_files": 42,
-    "world_total_chars": 734673,
+    "world_total_chars": 734906,
     "outline_modules": [
       {
         "label": "总纲与专题推演",
@@ -192,7 +192,7 @@
       {
         "label": "分卷与篇章大纲",
         "files": 8,
-        "chars": 48671
+        "chars": 48511
       },
       {
         "label": "本作时间线",
@@ -825,31 +825,49 @@
         "agent_working": 10480
       },
       "edited_chapters": 5
+    },
+    {
+      "date": "2026-11-17",
+      "totals": {
+        "formal": 62656,
+        "working": 53533,
+        "outline": 114862,
+        "settings": 752578,
+        "agent_working": 145489
+      },
+      "net_change": {
+        "formal": 16715,
+        "working": 2016,
+        "outline": -160,
+        "settings": 320,
+        "agent_working": -944
+      },
+      "edited_chapters": 9
     }
   ],
   "averages": {
     "recent_seven_days": {
-      "start": "2026-11-10",
-      "end": "2026-11-16",
+      "start": "2026-11-11",
+      "end": "2026-11-17",
       "days": 7,
       "per_day": {
-        "formal": 0.0,
-        "working": 1947.7142857142858,
-        "outline": 4969.285714285715,
-        "settings": 439.14285714285717,
-        "agent_working": 9053.142857142857
+        "formal": 2387.8571428571427,
+        "working": 1409.4285714285713,
+        "outline": 4830.142857142857,
+        "settings": 293.2857142857143,
+        "agent_working": 7529.857142857143
       }
     },
     "before_recent_seven_days": {
       "baseline_date": "2026-09-25",
-      "end": "2026-11-09",
-      "days": 45,
+      "end": "2026-11-10",
+      "days": 46,
       "per_day": {
-        "formal": 1020.9111111111112,
-        "working": 586.1555555555556,
-        "outline": -1141.4666666666667,
-        "settings": 16628.666666666668,
-        "agent_working": 1556.0444444444445
+        "formal": 998.7173913043479,
+        "working": 699.1521739130435,
+        "outline": -1098.9565217391305,
+        "settings": 16296.326086956522,
+        "agent_working": 1733.5
       }
     }
   }
