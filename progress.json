@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-19T14:00:23+08:00",
+  "updated_at": "2026-11-19T21:00:26+08:00",
   "timezone": "Asia/Shanghai",
   "count_method": "Unicode letters and numbers; Markdown headings, frontmatter, code blocks, comments and image links excluded.",
   "totals": {
     "formal": 62656,
-    "working": 54665,
+    "working": 54938,
     "outline": 115565,
     "settings": 752737,
     "agent_working": 146454
@@ -101,7 +101,7 @@
     {
       "label": "第1卷 · 第10章",
       "formal": 0,
-      "working": 1617,
+      "working": 1890,
       "variants": 1,
       "agent_working": 6095,
       "agent_variants": 2
@@ -119,10 +119,10 @@
     "latest_formal_label": "第1卷 · 第9章",
     "latest_working_label": "第1卷 · 第10章",
     "regular_formal_avg_chars": 6888,
-    "draft_to_formal_ratio": 0.87,
+    "draft_to_formal_ratio": 0.88,
     "settled_draft_ratio": 1.03,
-    "unpublished_working_chars": 1617,
-    "author_net_chars": 64273
+    "unpublished_working_chars": 1890,
+    "author_net_chars": 64546
   },
   "structure": {
     "world_settings": [
@@ -866,14 +866,14 @@
       "date": "2026-11-19",
       "totals": {
         "formal": 62656,
-        "working": 54665,
+        "working": 54938,
         "outline": 115565,
         "settings": 752737,
         "agent_working": 146454
       },
       "net_change": {
         "formal": 0,
-        "working": -4,
+        "working": 269,
         "outline": 703,
         "settings": 19,
         "agent_working": 0
@@ -888,7 +888,7 @@
       "days": 7,
       "per_day": {
         "formal": 2387.8571428571427,
-        "working": 1254.5714285714287,
+        "working": 1293.5714285714287,
         "outline": 529.5714285714286,
         "settings": 298.14285714285717,
         "agent_working": 6979.285714285715
