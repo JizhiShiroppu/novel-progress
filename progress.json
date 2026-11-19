@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-18T21:00:29+08:00",
+  "updated_at": "2026-11-19T14:00:23+08:00",
   "timezone": "Asia/Shanghai",
   "count_method": "Unicode letters and numbers; Markdown headings, frontmatter, code blocks, comments and image links excluded.",
   "totals": {
     "formal": 62656,
-    "working": 54669,
-    "outline": 114862,
-    "settings": 752718,
+    "working": 54665,
+    "outline": 115565,
+    "settings": 752737,
     "agent_working": 146454
   },
   "doc_counts": {
@@ -101,19 +101,19 @@
     {
       "label": "第1卷 · 第10章",
       "formal": 0,
-      "working": 1621,
+      "working": 1617,
       "variants": 1,
       "agent_working": 6095,
       "agent_variants": 2
     }
   ],
-  "last_manuscript_change": "2026-11-18",
+  "last_manuscript_change": "2026-11-19",
   "rhythm": {
-    "tracking_span_days": 55,
-    "snapshot_days": 37,
-    "manuscript_active_days": 35,
-    "current_streak_days": 25,
-    "longest_streak_days": 25,
+    "tracking_span_days": 56,
+    "snapshot_days": 38,
+    "manuscript_active_days": 36,
+    "current_streak_days": 26,
+    "longest_streak_days": 26,
     "formal_chapters": 10,
     "working_only_chapters": 1,
     "latest_formal_label": "第1卷 · 第9章",
@@ -121,8 +121,8 @@
     "regular_formal_avg_chars": 6888,
     "draft_to_formal_ratio": 0.87,
     "settled_draft_ratio": 1.03,
-    "unpublished_working_chars": 1621,
-    "author_net_chars": 64277
+    "unpublished_working_chars": 1617,
+    "author_net_chars": 64273
   },
   "structure": {
     "world_settings": [
@@ -166,7 +166,7 @@
       {
         "label": "主要人物",
         "files": 8,
-        "chars": 6908
+        "chars": 6914
       },
       {
         "label": "配角",
@@ -176,11 +176,11 @@
       {
         "label": "区域与路人",
         "files": 14,
-        "chars": 4299
+        "chars": 4312
       }
     ],
     "character_total_files": 34,
-    "character_total_chars": 17812,
+    "character_total_chars": 17831,
     "world_total_files": 42,
     "world_total_chars": 734906,
     "outline_modules": [
@@ -192,7 +192,7 @@
       {
         "label": "分卷与篇章大纲",
         "files": 8,
-        "chars": 48511
+        "chars": 49214
       },
       {
         "label": "本作时间线",
@@ -861,31 +861,49 @@
         "agent_working": 0
       },
       "edited_chapters": 1
+    },
+    {
+      "date": "2026-11-19",
+      "totals": {
+        "formal": 62656,
+        "working": 54665,
+        "outline": 115565,
+        "settings": 752737,
+        "agent_working": 146454
+      },
+      "net_change": {
+        "formal": 0,
+        "working": -4,
+        "outline": 703,
+        "settings": 19,
+        "agent_working": 0
+      },
+      "edited_chapters": 1
     }
   ],
   "averages": {
     "recent_seven_days": {
-      "start": "2026-11-12",
-      "end": "2026-11-18",
+      "start": "2026-11-13",
+      "end": "2026-11-19",
       "days": 7,
       "per_day": {
         "formal": 2387.8571428571427,
-        "working": 1468.7142857142858,
-        "outline": 1383.7142857142858,
-        "settings": 295.42857142857144,
-        "agent_working": 7331.714285714285
+        "working": 1254.5714285714287,
+        "outline": 529.5714285714286,
+        "settings": 298.14285714285717,
+        "agent_working": 6979.285714285715
       }
     },
     "before_recent_seven_days": {
       "baseline_date": "2026-09-25",
-      "end": "2026-11-11",
-      "days": 47,
+      "end": "2026-11-12",
+      "days": 48,
       "per_day": {
-        "formal": 977.468085106383,
-        "working": 699.6170212765958,
-        "outline": -562.2765957446809,
-        "settings": 15952.255319148937,
-        "agent_working": 1746.659574468085
+        "formal": 957.1041666666666,
+        "working": 716.1875,
+        "outline": -411.3541666666667,
+        "settings": 15619.916666666666,
+        "agent_working": 1761.6666666666667
       }
     }
   }
