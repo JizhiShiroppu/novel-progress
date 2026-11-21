@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-20T21:00:23+08:00",
+  "updated_at": "2026-11-21T14:00:22+08:00",
   "timezone": "Asia/Shanghai",
   "count_method": "Unicode letters and numbers; Markdown headings, frontmatter, code blocks, comments and image links excluded.",
   "totals": {
     "formal": 62656,
-    "working": 54938,
+    "working": 55077,
     "outline": 115565,
     "settings": 752737,
-    "agent_working": 146454
+    "agent_working": 147974
   },
   "doc_counts": {
     "formal": 10,
@@ -101,18 +101,18 @@
     {
       "label": "第1卷 · 第10章",
       "formal": 0,
-      "working": 1890,
+      "working": 2029,
       "variants": 1,
-      "agent_working": 6095,
+      "agent_working": 7615,
       "agent_variants": 2
     }
   ],
-  "last_manuscript_change": "2026-11-19",
+  "last_manuscript_change": "2026-11-21",
   "rhythm": {
-    "tracking_span_days": 57,
-    "snapshot_days": 38,
-    "manuscript_active_days": 36,
-    "current_streak_days": 26,
+    "tracking_span_days": 58,
+    "snapshot_days": 39,
+    "manuscript_active_days": 37,
+    "current_streak_days": 1,
     "longest_streak_days": 26,
     "formal_chapters": 10,
     "working_only_chapters": 1,
@@ -121,8 +121,8 @@
     "regular_formal_avg_chars": 6888,
     "draft_to_formal_ratio": 0.88,
     "settled_draft_ratio": 1.03,
-    "unpublished_working_chars": 1890,
-    "author_net_chars": 64546
+    "unpublished_working_chars": 2029,
+    "author_net_chars": 64685
   },
   "structure": {
     "world_settings": [
@@ -879,31 +879,49 @@
         "agent_working": 0
       },
       "edited_chapters": 1
+    },
+    {
+      "date": "2026-11-21",
+      "totals": {
+        "formal": 62656,
+        "working": 55077,
+        "outline": 115565,
+        "settings": 752737,
+        "agent_working": 147974
+      },
+      "net_change": {
+        "formal": 0,
+        "working": 139,
+        "outline": 0,
+        "settings": 0,
+        "agent_working": 1520
+      },
+      "edited_chapters": 1
     }
   ],
   "averages": {
     "recent_seven_days": {
-      "start": "2026-11-14",
-      "end": "2026-11-20",
+      "start": "2026-11-15",
+      "end": "2026-11-21",
       "days": 7,
       "per_day": {
         "formal": 2387.8571428571427,
-        "working": 1000.8571428571429,
-        "outline": 364.85714285714283,
-        "settings": 262.42857142857144,
-        "agent_working": 5692.0
+        "working": 518.5714285714286,
+        "outline": 286.85714285714283,
+        "settings": 254.85714285714286,
+        "agent_working": 3950.4285714285716
       }
     },
     "before_recent_seven_days": {
       "baseline_date": "2026-09-25",
-      "end": "2026-11-13",
-      "days": 49,
+      "end": "2026-11-14",
+      "days": 50,
       "per_day": {
-        "formal": 937.5714285714286,
-        "working": 743.3877551020408,
-        "outline": -379.42857142857144,
-        "settings": 15306.244897959185,
-        "agent_working": 1909.6122448979593
+        "formal": 918.82,
+        "working": 798.82,
+        "outline": -360.92,
+        "settings": 15001.18,
+        "agent_working": 2145.64
       }
     }
   }
