@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-23T14:00:26+08:00",
+  "updated_at": "2026-11-23T21:00:21+08:00",
   "timezone": "Asia/Shanghai",
   "count_method": "Unicode letters and numbers; Markdown headings, frontmatter, code blocks, comments and image links excluded.",
   "totals": {
     "formal": 65727,
-    "working": 58904,
+    "working": 61714,
     "outline": 115971,
     "settings": 752894,
-    "agent_working": 159969
+    "agent_working": 159858
   },
   "doc_counts": {
     "formal": 11,
@@ -109,9 +109,9 @@
     {
       "label": "第1卷 · 第11章",
       "formal": 0,
-      "working": 2785,
+      "working": 5595,
       "variants": 1,
-      "agent_working": 12294,
+      "agent_working": 12183,
       "agent_variants": 1
     }
   ],
@@ -127,10 +127,10 @@
     "latest_formal_label": "第1卷 · 第10章",
     "latest_working_label": "第1卷 · 第11章",
     "regular_formal_avg_chars": 6506,
-    "draft_to_formal_ratio": 0.9,
+    "draft_to_formal_ratio": 0.94,
     "settled_draft_ratio": 1.03,
-    "unpublished_working_chars": 2785,
-    "author_net_chars": 68512
+    "unpublished_working_chars": 5595,
+    "author_net_chars": 71322
   },
   "structure": {
     "world_settings": [
@@ -928,17 +928,17 @@
       "date": "2026-11-23",
       "totals": {
         "formal": 65727,
-        "working": 58904,
+        "working": 61714,
         "outline": 115971,
         "settings": 752894,
-        "agent_working": 159969
+        "agent_working": 159858
       },
       "net_change": {
         "formal": 0,
-        "working": 2272,
+        "working": 5082,
         "outline": 0,
         "settings": 0,
-        "agent_working": 3288
+        "agent_working": 3177
       },
       "edited_chapters": 1
     }
@@ -950,10 +950,10 @@
       "days": 7,
       "per_day": {
         "formal": 2826.5714285714284,
-        "working": 1055.2857142857142,
+        "working": 1456.7142857142858,
         "outline": 135.57142857142858,
         "settings": 90.85714285714286,
-        "agent_working": 1933.7142857142858
+        "agent_working": 1917.857142857143
       }
     },
     "before_recent_seven_days": {
