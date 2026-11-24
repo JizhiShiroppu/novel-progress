@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-24T14:00:21+08:00",
+  "updated_at": "2026-11-24T21:00:24+08:00",
   "timezone": "Asia/Shanghai",
   "count_method": "Unicode letters and numbers; Markdown headings, frontmatter, code blocks, comments and image links excluded.",
   "totals": {
     "formal": 65669,
-    "working": 64948,
+    "working": 56076,
     "outline": 115971,
     "settings": 752894,
-    "agent_working": 164622
+    "agent_working": 164673
   },
   "doc_counts": {
     "formal": 11,
@@ -109,9 +109,9 @@
     {
       "label": "第1卷 · 第11章",
       "formal": 0,
-      "working": 8872,
+      "working": 0,
       "variants": 1,
-      "agent_working": 16947,
+      "agent_working": 16998,
       "agent_variants": 2
     }
   ],
@@ -123,14 +123,14 @@
     "current_streak_days": 4,
     "longest_streak_days": 26,
     "formal_chapters": 11,
-    "working_only_chapters": 1,
+    "working_only_chapters": 0,
     "latest_formal_label": "第1卷 · 第10章",
-    "latest_working_label": "第1卷 · 第11章",
+    "latest_working_label": "第1卷 · 第10章",
     "regular_formal_avg_chars": 6500,
-    "draft_to_formal_ratio": 0.99,
+    "draft_to_formal_ratio": 0.85,
     "settled_draft_ratio": 1.03,
-    "unpublished_working_chars": 8872,
-    "author_net_chars": 74541
+    "unpublished_working_chars": 0,
+    "author_net_chars": 65669
   },
   "structure": {
     "world_settings": [
@@ -946,17 +946,17 @@
       "date": "2026-11-24",
       "totals": {
         "formal": 65669,
-        "working": 64948,
+        "working": 56076,
         "outline": 115971,
         "settings": 752894,
-        "agent_working": 164622
+        "agent_working": 164673
       },
       "net_change": {
         "formal": -58,
-        "working": 3234,
+        "working": -5638,
         "outline": 0,
         "settings": 0,
-        "agent_working": 4764
+        "agent_working": 4815
       },
       "edited_chapters": 2
     }
@@ -968,10 +968,10 @@
       "days": 7,
       "per_day": {
         "formal": 430.42857142857144,
-        "working": 1465.5714285714287,
+        "working": 198.14285714285714,
         "outline": 158.42857142857142,
         "settings": 25.142857142857142,
-        "agent_working": 2595.4285714285716
+        "agent_working": 2602.714285714286
       }
     },
     "before_recent_seven_days": {
