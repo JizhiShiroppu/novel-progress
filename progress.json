@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-27T22:35:17+08:00",
+  "updated_at": "2026-11-28T14:00:15+08:00",
   "timezone": "Asia/Shanghai",
   "count_method": "Unicode letters and numbers; Markdown headings, frontmatter, code blocks, comments and image links excluded.",
   "totals": {
@@ -117,7 +117,7 @@
   ],
   "last_manuscript_change": "2026-11-24",
   "rhythm": {
-    "tracking_span_days": 64,
+    "tracking_span_days": 65,
     "snapshot_days": 42,
     "manuscript_active_days": 40,
     "current_streak_days": 0,
@@ -963,27 +963,27 @@
   ],
   "averages": {
     "recent_seven_days": {
-      "start": "2026-11-21",
-      "end": "2026-11-27",
+      "start": "2026-11-22",
+      "end": "2026-11-28",
       "days": 7,
       "per_day": {
         "formal": 430.42857142857144,
-        "working": 162.57142857142858,
+        "working": 82.57142857142857,
         "outline": 58.0,
-        "settings": 22.428571428571427,
-        "agent_working": 2602.714285714286
+        "settings": 0.0,
+        "agent_working": 2428.4285714285716
       }
     },
     "before_recent_seven_days": {
       "baseline_date": "2026-09-25",
-      "end": "2026-11-20",
-      "days": 56,
+      "end": "2026-11-21",
+      "days": 57,
       "per_day": {
-        "formal": 1118.857142857143,
-        "working": 775.5714285714286,
-        "outline": -286.39285714285717,
-        "settings": 13425.767857142857,
-        "agent_working": 2382.410714285714
+        "formal": 1099.2280701754387,
+        "working": 771.7894736842105,
+        "outline": -281.36842105263156,
+        "settings": 13192.982456140351,
+        "agent_working": 2362.0175438596493
       }
     }
   }
